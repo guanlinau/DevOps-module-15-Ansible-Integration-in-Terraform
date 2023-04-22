@@ -28,7 +28,7 @@ env_profix =
 my_ip_address =
 instance_type =
 public_key_location  =
-ssh_private_key =
+ssh_private_key_location =
 server_user =
 
 ```
